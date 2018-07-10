@@ -8,7 +8,7 @@ Preparing the Development
 -------------------------
 
 1. Ensure ``pip`` and ``pipenv`` are installed.
-2. Clone repository: ``git clone git@guthub.com:FathiQ/pgbackup``
+2. Clone repository: ``git clone git@github.com:FathiQ/pgbackup``
 3. ``cd`` into the repository
 4. Fetch development dependancies ``make install``
 5. Activate virtualenv: ``pipenv shell``
